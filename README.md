@@ -183,9 +183,7 @@ The interface was redesigned into a workflow dashboard with a clear create-revie
 
 ### Recording
 
-```md
 ![FlowForge demo](./docs/demo.gif)
-```
 
 ### Future roadmap
 
