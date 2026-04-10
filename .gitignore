@@ -2,3 +2,16 @@ node_modules
 .next
 .DS_Store
 **/.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+prisma/*.db-journal
+prisma/*.db-wal
+prisma/*.db-shm
+build.stdout.log
+build.stderr.log
+*.tsbuildinfo
+
+Future-Plans.md
